@@ -929,7 +929,6 @@ detect.rayjump.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 dfp.doubleclick.net
-di.phncdn.com
 di1.shopping.com
 dialerporn.com
 dianomi.com
